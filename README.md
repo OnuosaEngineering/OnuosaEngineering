@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ijeoma Onuosa
-- 👀 I’m interested in banking, law, and computing.
+- 👀 I’m interested in finance, law, and systems engineering.
 - 🌱 I’m currently learning artificial intelligence.
 - 💞️ I’m looking to collaborate on my projects or your projects.
 - 📫 How to reach me ijeoma@NonBank.ai
